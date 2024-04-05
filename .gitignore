@@ -1,0 +1,7 @@
+# Creds 
+.env
+
+# virtual env
+.venv/**
+
+DOCS/temp_*
